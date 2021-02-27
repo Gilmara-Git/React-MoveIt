@@ -1,0 +1,43 @@
+
+.experienceBar {
+
+    display: flex;
+    align-items: center; 
+
+}
+
+.experienceBar span {
+
+    font-size: 1rem;
+}
+/*estilizando a primeira div dentro de Experience bar */
+/* flex 1 e para esta div ocupar o maximo possivel do container */
+.experienceBar > div {
+    flex: 1;
+    height: 4px;
+    border-radius: 4px;
+    background: var(--gray-line);
+    margin: 0 1.5rem;
+    position: relative;
+    
+}
+
+/* Estilizando a div dentro da div na Experience bar */
+/* A width dela esta setada la no componente Experience bar */
+
+.experienceBar > div > div {
+
+    height: 4px;
+    border-radius: 4px;
+    background: var(--green);
+  
+}
+
+span.currentExperience {
+
+    position: absolute;
+    top: 12px;
+    transform: translateX(-50%); 
+    /*50% e metade do tamanho dele, entao ele volta 50%; */
+
+}
