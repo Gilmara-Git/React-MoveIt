@@ -9,7 +9,7 @@
 ## About
 
 **MoveIt** is an application developed during the NLW04( Next Level Week) at Rocketseat in February 2021.
-It brings a set of different exercises for Developers to move their "body" and "eyes" from time to time. Each challenge has a level of experience and everytime it is completed a modal pop-ups indicating that the next level has been reached. Also, whenever there is a new challenge, a visual and audio alert is triggered to user.
+It brings a set of different exercises for Developers to move their "body" and "eyes" from time to time. Each challenge has a level of experience and every time it is completed a modal pop-ups indicating that the next level has been reached. Also, whenever there is a new challenge, a visual and audio alert is triggered to user.
 
 ## Motivation
 
@@ -70,4 +70,4 @@ Developed by [Thiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/) a
 - Option to sign in with Github
 
 ## Application deployment link
-- 
+- https://moveit-next-gilmara-git.vercel.app/
