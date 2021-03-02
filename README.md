@@ -1,34 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Rocketseat</h1>
 
-## Getting Started
+<h1 align="center"><b>"MoveIt"</b></h1>
 
-First, run the development server:
+<h1 align="center">
+    <img src="https://ik.imagekit.io/cnbmdh4b9w/move-it_y00KxIwYt.png">
+</h1>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## About
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**MoveIt** is an application developed during the NLW04( Next Level Week) at Rocketseat in February 2021.
+It brings a set of different exercises for Developers to move their "body" and "eyes" from time to time. Each challenge has a level of experience and everytime it is completed a modal pop-ups indicating that the next level has been reached. Also, whenever there is a new challenge, a visual and audio alert is triggered to user.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Motivation
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Get started with React by learning its fundamentals while coding along with the instructor.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Technologies used
 
-## Learn More
+- Html5
+- Css modules
+- JavaScript
+- React
+- Next
+- Typescript
+- Cookies to store data
+- Vercel (deployment)
 
-To learn more about Next.js, take a look at the following resources:
+## Responsiveness
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+@media queries were used so the aplication can adapt to smaller interfaces.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<h1 align="center">
+<img src="https://ik.imagekit.io/cnbmdh4b9w/ezgif.com-gif-maker__12__FRkLv3pU-K.gif"></h1>
 
-## Deploy on Vercel
+## Instructor:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[Diego Fernandes](https://github.com/diego3g)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Layout:
+
+Developed by [Thiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/) and you can check it out on:
+
+- [Figma Layout for Desktop](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0?node-id=149721%3A851)
+
+- [Move-it - 2.0 version Layout](<https://www.figma.com/file/3GCEIJopuFTYHzH6DvafYG/Move.it-2.0-(Copy)?node-id=160%3A2761>) - oportunity for improvement.
+
+## To clone: Clone this repository and save it on you computer.
+
+- $ git clone https://github.com/Gilmara-Git/React-MoveIt
+
+- Navigate to the project folder: "npm run dev" or "yarn dev"
+
+- Open http://localhost:3000 with your browser to see the result.
+
+## To contribute:
+
+- Fork the project
+
+- Create a new branch with your changes: $ git checkout -b my-feature
+
+- Save your changes and create a commit message explaining your changes: $ git commit -m "feature: My new feature"
+
+- Submit your changes: $ git push origin my-feature
+
+## Opportunity for improvement along with version 2.0
+
+- Dark Theme
+- PWA (Progressive Web App)
+- Option to sign in with Github
+
+## Application deployment link
+- 

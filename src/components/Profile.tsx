@@ -9,7 +9,7 @@ export function Profile(){
     return (
 
         <div className={styles.profileContainer}>
-            <img src="https://media-exp1.licdn.com/dms/image/C4D35AQGxNSZC8vNinQ/profile-framedphoto-shrink_100_100/0/1610905946714?e=1614214800&v=beta&t=40WyBGNBNPG_koGi5MO4z6i4j4Ah83W3nT8vyQfoTCc"/>
+            <img src="/icons/gil.jpg" alt="avatar"/>
         
             <div>
                 <strong>Gilmara Pimentel</strong>
